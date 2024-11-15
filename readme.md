@@ -1,4 +1,4 @@
-# Princípios SOLID - Guia de Referência
+# Princípios SOLID 
 
 Este repositório contém exemplos e explicações sobre os Princípios SOLID, que são diretrizes de design de software criadas para promover código limpo, reutilizável e fácil de manter.
 
